@@ -21,7 +21,7 @@ BLOG_AUTHOR = "SH"  # (translatable)
 BLOG_TITLE = "Hacky Hour St Lucia"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
-SITE_URL = "http://github.com/SamHames/hackyhour-stlucia/"
+SITE_URL = "http://samhames.github.io/hackyhour-stlucia/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "http://github.com/SamHames/hackyhour-stlucia/"
