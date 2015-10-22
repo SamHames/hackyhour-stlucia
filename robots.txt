@@ -1,4 +1,4 @@
-Sitemap: http://github.com/SamHames/hackyhour-stlucia/sitemapindex.xml
+Sitemap: http://samhames.github.io/hackyhour-stlucia/sitemapindex.xml
 
 User-Agent: *
-Host: github.com
+Host: samhames.github.io
