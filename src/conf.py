@@ -25,8 +25,8 @@ SITE_URL = "http://github.com/SamHames/hackyhour-stlucia/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "http://github.com/SamHames/hackyhour-stlucia/"
-BLOG_EMAIL = "s.hames@uq.edu.au"
-BLOG_DESCRIPTION = "Hacky Hour St Lucia"  # (translatable)
+BLOG_EMAIL = "s.hames at uq.edu.au"
+BLOG_DESCRIPTION = "Website for St Lucia's Hacky Hour"  # (translatable)
 
 # Nikola is multilingual!
 #
@@ -127,18 +127,18 @@ TRANSLATIONS_PATTERN = "{path}.{lang}.{ext}"
 
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
-        ("/archive.html", "Archive"),
-        ("/categories/", "Tags"),
+        ("/about/", "About"),
+        ("/", "Blog"),
         ("/rss.xml", "RSS feed"),
     ),
 }
 
 # Name of the theme to use.
-THEME = "bootstrap3"
+THEME = "readable_base"
 
 # Primary color of your theme. This will be used to customize your theme and
 # auto-generate related colors in POSTS_SECTION_COLORS. Must be a HEX value.
-THEME_COLOR = '#5670d4'
+#THEME_COLOR = '#5670d4'
 
 # POSTS and PAGES contains (wildcard, destination, template) tuples.
 #
@@ -166,12 +166,10 @@ THEME_COLOR = '#5670d4'
 #
 
 POSTS = (
-    ("posts/*.rst", "posts", "post.tmpl"),
-    ("posts/*.txt", "posts", "post.tmpl"),
+    ("posts/*.md", "blog", "post.tmpl"),
 )
 PAGES = (
-    ("stories/*.rst", "stories", "story.tmpl"),
-    ("stories/*.txt", "stories", "story.tmpl"),
+    ("stories/*.md", "", "story.tmpl"),
 )
 
 
@@ -537,7 +535,7 @@ REDIRECTIONS = []
 # Where the output site should be located
 # If you don't use an absolute path, it will be considered as relative
 # to the location of conf.py
-# OUTPUT_FOLDER = 'output'
+OUTPUT_FOLDER = '../'
 
 # where the "cache" of partial generated content should be located
 # default: 'cache'
@@ -768,7 +766,7 @@ LICENSE = ""
 
 # A small copyright notice for the page footer (in HTML).
 # (translatable)
-CONTENT_FOOTER = 'Contents &copy; {date}         <a href="mailto:{email}">{author}</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         {license}'
+CONTENT_FOOTER = ''
 
 # Things that will be passed to CONTENT_FOOTER.format().  This is done
 # for translatability, as dicts are not formattable.  Nikola will
@@ -1026,7 +1024,7 @@ MARKDOWN_EXTENSIONS = ['fenced_code', 'codehilite', 'extra']
 # Bootstrap is served from BootstrapCDN (provided by MaxCDN)
 # Set this to False if you want to host your site without requiring access to
 # external resources.
-# USE_CDN = False
+USE_CDN = False
 
 # Check for USE_CDN compatibility.
 # If you are using custom themes, have configured the CSS properly and are
