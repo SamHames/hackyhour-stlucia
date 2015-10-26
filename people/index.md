@@ -16,6 +16,7 @@ Here's some of the regulars you might see at Hacky Hour.
 I'm doing a PhD in medical image analysis and I'm one of Brisbane's Software Carpentry Instructors.
 
 Ask me questions about:
+
     - Python, Matlab
     - Version Control
     - Shell Scripting
