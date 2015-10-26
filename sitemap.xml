@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>http://samhames.github.io/hackyhour-stlucia/</loc>
-  <lastmod>2015-10-22T07:20:00Z</lastmod>
+  <lastmod>2015-10-26T00:13:00Z</lastmod>
  </url>
  <url>
   <loc>http://samhames.github.io/hackyhour-stlucia/2015/</loc>
@@ -36,6 +36,10 @@
  <url>
   <loc>http://samhames.github.io/hackyhour-stlucia/listings/</loc>
   <lastmod>2015-10-22T06:18:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://samhames.github.io/hackyhour-stlucia/people/</loc>
+  <lastmod>2015-10-26T00:13:00Z</lastmod>
  </url>
  <url>
   <loc>http://samhames.github.io/hackyhour-stlucia/posts/hacky-hour-ii/</loc>
