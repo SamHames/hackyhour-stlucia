@@ -9,6 +9,8 @@
 .. type: text
 -->
 
+# About Hacky Hour
+
 Research computing can be hard! It's made even worse when you don't have anyone to talk to and ask questions. Hacky Hours are here to help. We aim to bring people together to do better science.
 
 For example:
@@ -23,12 +25,25 @@ For example:
 
 If any of these apply, Hacky Hour is for you. Bring yourself, bring your problems, bring a laptop, bring your knowledge and experience. Maybe we can figure it all out together, or at least get you going in the right direction. (And if you know the answers to some of those questions, maybe you can help others too!)
 
-If nothing else there is coffee.
+For more info about the philosophy you might like to read Damien Irving's summary: [http://melbourne.resbaz.edu.au/post/74791203771/join-us-for-hacky-hour](http://melbourne.resbaz.edu.au/post/74791203771/join-us-for-hacky-hour)
 
-- St. Lucy's Cafe
+# When and where
+
+- [St. Lucy's Cafe](http://www.saintlucy.com.au/)
 - 4-5pm
-- Thursdays
+- Every Tuesday (Provisionally)
 
+There will be an announcement on this blog and on Twitter for upcoming events.
+
+
+# Other Hacky Hours in Brisbane
+
+- [Griffith University](https://hackyhourgriffith.wordpress.com/) runs a Hacky Hour every second Thursday, alternating between their Nathan and Gold Coast campuses.
+
+
+# Get in touch
 
 Feel free to contact me if you have any questions:
 s.hames at uq.edu.au
+
+Or follow on @HackyHourStLuc on Twitter.
