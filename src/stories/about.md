@@ -9,9 +9,10 @@
 .. type: text
 -->
 
+
 # About Hacky Hour
 
-Research computing can be hard! It's made even worse when you don't have anyone to talk to and ask questions. Hacky Hours are here to help. We aim to bring people together to do better science.
+Research computing can be hard! It's made even worse when you don't have anyone to talk to and ask questions. Hacky Hours are here to help. We're aiming to make a community of people interested in doing better science. Sometimes a problem that you've been wrestling with for days can be solved by 5 minutes talking to the right person. The aim of this Hacky Hour is to establish a broad community of "the right people" so you don't have to be alone with your problems.
 
 For example:
 
@@ -20,8 +21,10 @@ For example:
 - Having trouble installing software you need?
 - Heard about a useful tool like Git for version control, but don't know where to begin?
 - Don't know how to manage your data?
+- Are the docs so bad you don't even know where to begin?
+- Been to a workshop like Software Carpentry, but don't know what to do next?
 - Need more computational resources and don't know where to start?
-- Do you feel like there's got to be a better way?
+- Do you feel like there's got to be a better way to manage your data and your analyses?
 
 If any of these apply, Hacky Hour is for you. Bring yourself, bring your problems, bring a laptop, bring your knowledge and experience. Maybe we can figure it all out together, or at least get you going in the right direction. (And if you know the answers to some of those questions, maybe you can help others too!)
 
