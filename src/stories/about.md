@@ -18,8 +18,8 @@ For example:
 
 - Do you analyse data?
 - Do you write software to answer your research questions, but don't have any formal training?
-- Having trouble installing software you need?
-- Heard about a useful tool like Git for version control, but don't know where to begin?
+- Are you having trouble installing the software you need?
+- Have you heard about a useful tool like Git for version control, but don't know where to begin?
 - Don't know how to manage your data?
 - Are the docs so bad you don't even know where to begin?
 - Been to a workshop like Software Carpentry, but don't know what to do next?
@@ -32,21 +32,21 @@ For more info about the philosophy you might like to read Damien Irving's summar
 
 # When and where
 
-- [St. Lucy's Cafe](http://www.saintlucy.com.au/)
+- [St. Lucy's Cafe](http://www.saintlucy.com.au/), UQ St Lucia (near the tennis courts)
 - 4-5pm
-- Every Tuesday (Provisionally)
+- Every second Tuesday (Provisionally)
 
 There will be an announcement on this blog and on Twitter for upcoming events.
 
 
 # Other Hacky Hours in Brisbane
 
-- [Griffith University](https://hackyhourgriffith.wordpress.com/) runs a Hacky Hour every second Thursday, alternating between their Nathan and Gold Coast campuses.
+- [Griffith University](https://hackyhourgriffith.wordpress.com/) runs a Hacky Hour every second Thursday, alternating between their Nathan and Gold Coast campuses. Follow [@hackyhourGU](https://twitter.com/hackyhourGU) on Twitter.
 
 
 # Get in touch
 
-Feel free to contact me if you have any questions:
-s.hames at uq.edu.au
+Feel free to contact us if you have any questions:
+s.hames at uq.edu.au or b.weaver AT qcif.edu.au
 
-Or follow on @HackyHourStLuc on Twitter.
+Or follow [@HackyHourStLuc](https://twitter.com/HackyHourStLuc) on Twitter.
