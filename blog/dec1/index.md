@@ -1,7 +1,7 @@
 <!--
-.. title: Dec UQ Hacky Hour
+.. title: December UQ Hacky Hour
 .. slug: dec1
-.. date: 2015-11-19 
+.. date: 2015-11-19
 .. tags: research help
 .. category:
 .. link:
@@ -15,9 +15,9 @@ Give yourself an early Christmas present by coming down to [St Lucy's cafe](http
 
 You don't need to have a problem that needs solving &mdash; maybe you just want a break from your research.
 
-Or you might want to know if anyone is working on a similar project to yours? 
+Or you might want to know if anyone is working on a similar project to yours?
 
-Or ... find people using the same tools you are using in your research?
+Maybe you just want to learn more about the tools other people are using?
 
 Perhaps you'd like to hear more about what is coming up at the Feb 1-3 [ResBaz](https://feb2016.resbaz.com/) in Brisbane next year?
 
